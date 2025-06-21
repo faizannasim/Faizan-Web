@@ -13,7 +13,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <Abougitt />
+      <About />
       <Service />
       <Project />
      <Contact />
