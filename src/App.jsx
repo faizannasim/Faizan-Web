@@ -4,7 +4,9 @@ import Service from './Component/Service'
 import Hero from './Component/Hero'
 import Project from './Component/Project'
 import Footer from './Component/Footer'
-import Login from './Component/login'
+import Login from "./Component/login";
+
+
 import About from './Component/About'
 
 function App() {
