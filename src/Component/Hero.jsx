@@ -37,7 +37,7 @@ const Hero = () => {
           </a>
 
           <a 
-            href="https://docs.google.com/document/d/1KKkyrdWLV-R3R0P62r3LXmUdQ20daYRl33KoxI5J6mY/edit?usp=sharing"
+            href="https://drive.google.com/file/d/1yU_sF6mGuYx_NSZ74s5_WCPXb0InBePY/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-cyan-500 to-blue-700 text-white hidden md:inline-block transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded"
